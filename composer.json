@@ -1,0 +1,20 @@
+{
+  "name": "vrkansagara/laminas-code-generator",
+  "description": "Laminas Code Generator",
+  "type": "library",
+  "license": "BSD-3-Clause",
+  "keywords": [
+    "laminas",
+    "code",
+    "generator",
+    "module"
+  ],
+  "minimum-stability": "stable",
+  "prefer-stable": true,
+  "require": {
+    "php": "^7.3"
+  },
+  "require-dev": {
+    "laminas/laminas-code": "^3.4",
+  }
+}
